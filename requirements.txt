@@ -3,7 +3,8 @@ numpy
 matplotlib
 seaborn 
 scipy
-ydata_profiling
+ydata_profiling==4.1.0
+visions==0.7.5
 streamlit-pandas-profiling
 streamlit
 Jinja2
