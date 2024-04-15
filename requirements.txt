@@ -4,8 +4,7 @@ matplotlib
 seaborn
 scipy
 ydata_profiling
-pandas-profiling==2.10.0
-streamlit-pandas-profiling==0.1.1
+streamlit-pandas-profiling
 streamlit
 Jinja2
 scikit-learn                       
