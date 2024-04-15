@@ -11,7 +11,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Titre de l'application
 st.markdown("""
-# Exploratory Data Analysis Application
+# Exploratory Data Analysis Application by Stella Mondoukpè AGUEMON(https://www.linkedin.com/in/stella-aguemon)
 
 This is EDA Application with can analyze data and help in these steps :
 Data Understanding, Data Visualization, Missing Value Analysis,
