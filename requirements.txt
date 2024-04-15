@@ -7,4 +7,5 @@ ydata_profiling
 streamlit-pandas-profiling
 streamlit
 Jinja2
-scikit-learn                       
+scikit-learn
+pip>=3.7                       
